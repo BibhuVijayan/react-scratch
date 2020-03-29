@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/BibhuVijayan/React-Base/static/js/main.82f4f853.chunk.js",
-    "main.js.map": "/BibhuVijayan/React-Base/static/js/main.82f4f853.chunk.js.map",
-    "runtime-main.js": "/BibhuVijayan/React-Base/static/js/runtime-main.f9c90570.js",
-    "runtime-main.js.map": "/BibhuVijayan/React-Base/static/js/runtime-main.f9c90570.js.map",
-    "static/js/2.76c7aa54.chunk.js": "/BibhuVijayan/React-Base/static/js/2.76c7aa54.chunk.js",
-    "static/js/2.76c7aa54.chunk.js.map": "/BibhuVijayan/React-Base/static/js/2.76c7aa54.chunk.js.map",
-    "static/js/3.a401bd89.chunk.js": "/BibhuVijayan/React-Base/static/js/3.a401bd89.chunk.js",
-    "static/js/3.a401bd89.chunk.js.map": "/BibhuVijayan/React-Base/static/js/3.a401bd89.chunk.js.map",
-    "static/js/4.d02e4c31.chunk.js": "/BibhuVijayan/React-Base/static/js/4.d02e4c31.chunk.js",
-    "static/js/4.d02e4c31.chunk.js.map": "/BibhuVijayan/React-Base/static/js/4.d02e4c31.chunk.js.map",
-    "static/js/5.3a420d44.chunk.js": "/BibhuVijayan/React-Base/static/js/5.3a420d44.chunk.js",
-    "static/js/5.3a420d44.chunk.js.map": "/BibhuVijayan/React-Base/static/js/5.3a420d44.chunk.js.map",
-    "static/js/6.126b7dd4.chunk.js": "/BibhuVijayan/React-Base/static/js/6.126b7dd4.chunk.js",
-    "static/js/6.126b7dd4.chunk.js.map": "/BibhuVijayan/React-Base/static/js/6.126b7dd4.chunk.js.map",
-    "index.html": "/BibhuVijayan/React-Base/index.html",
-    "precache-manifest.e864076a1a12bf8d2c2c14d175379e22.js": "/BibhuVijayan/React-Base/precache-manifest.e864076a1a12bf8d2c2c14d175379e22.js",
-    "service-worker.js": "/BibhuVijayan/React-Base/service-worker.js",
-    "static/js/2.76c7aa54.chunk.js.LICENSE.txt": "/BibhuVijayan/React-Base/static/js/2.76c7aa54.chunk.js.LICENSE.txt"
+    "main.js": "/React-Base/static/js/main.c095048f.chunk.js",
+    "main.js.map": "/React-Base/static/js/main.c095048f.chunk.js.map",
+    "runtime-main.js": "/React-Base/static/js/runtime-main.71b03e5d.js",
+    "runtime-main.js.map": "/React-Base/static/js/runtime-main.71b03e5d.js.map",
+    "static/js/2.26c1c8cc.chunk.js": "/React-Base/static/js/2.26c1c8cc.chunk.js",
+    "static/js/2.26c1c8cc.chunk.js.map": "/React-Base/static/js/2.26c1c8cc.chunk.js.map",
+    "static/js/3.a401bd89.chunk.js": "/React-Base/static/js/3.a401bd89.chunk.js",
+    "static/js/3.a401bd89.chunk.js.map": "/React-Base/static/js/3.a401bd89.chunk.js.map",
+    "static/js/4.d02e4c31.chunk.js": "/React-Base/static/js/4.d02e4c31.chunk.js",
+    "static/js/4.d02e4c31.chunk.js.map": "/React-Base/static/js/4.d02e4c31.chunk.js.map",
+    "static/js/5.3a420d44.chunk.js": "/React-Base/static/js/5.3a420d44.chunk.js",
+    "static/js/5.3a420d44.chunk.js.map": "/React-Base/static/js/5.3a420d44.chunk.js.map",
+    "static/js/6.126b7dd4.chunk.js": "/React-Base/static/js/6.126b7dd4.chunk.js",
+    "static/js/6.126b7dd4.chunk.js.map": "/React-Base/static/js/6.126b7dd4.chunk.js.map",
+    "index.html": "/React-Base/index.html",
+    "precache-manifest.ae26518d2ebba207f711d309a46a3b99.js": "/React-Base/precache-manifest.ae26518d2ebba207f711d309a46a3b99.js",
+    "service-worker.js": "/React-Base/service-worker.js",
+    "static/js/2.26c1c8cc.chunk.js.LICENSE.txt": "/React-Base/static/js/2.26c1c8cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9c90570.js",
-    "static/js/2.76c7aa54.chunk.js",
-    "static/js/main.82f4f853.chunk.js"
+    "static/js/runtime-main.71b03e5d.js",
+    "static/js/2.26c1c8cc.chunk.js",
+    "static/js/main.c095048f.chunk.js"
   ]
 }
