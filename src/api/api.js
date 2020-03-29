@@ -3,7 +3,7 @@ import { onResponse, onResponseError } from "./responseInterceptor";
 import { onRequest, onRequestError } from "./requestInterceptor";
 
 // export const BASE_URL = "https://api.finishfactory.in";
-export const BASE_URL = "http://localhost:3000";
+export const BASE_URL = "https://bibhuvijayan.github.io/react-scratch";
 
 export const API = axios.create({
   baseURL: BASE_URL

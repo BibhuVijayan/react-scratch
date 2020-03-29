@@ -10,7 +10,7 @@ const ListItem = props => {
   return (
     <Li ref={setNode}>
       <Preview
-        url={visible ? `../../assets/images/${props.item.poster_image}` : ""}
+        url={visible ? `https://bibhuvijayan.github.io/react-scratch/assets/images/${props.item.poster_image}` : ""}
       ></Preview>
       <Label>{props.item.name}</Label>
     </Li>

@@ -10,7 +10,7 @@ const Login = props => {
     // this will be handled after login succes api
     props.loginSuccess(true);
     localStorage.setItem("token", "1234SDRFR%$$$");
-    props.history.push("/home");
+    props.history.push("/react-scratch/home");
   };
 
   return (
