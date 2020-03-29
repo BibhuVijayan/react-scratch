@@ -17,7 +17,7 @@ const App = props => {
       <Switch>
         <Route
           exact
-          path="/"
+          path="/react-scratch/"
           render={propsChld => (
             <ErrorHandler>
               <CMP.Login {...propsChld} />
@@ -25,7 +25,7 @@ const App = props => {
           )}
         ></Route>
         <Route
-          path="/login"
+          path="/react-scratch/login"
           render={propsChld => (
             <ErrorHandler>
               <CMP.Login {...propsChld} />
@@ -35,7 +35,7 @@ const App = props => {
         {props.loginSuccess && (
           <Route
             exact
-            path="/home/:type?/:inner?/:inside?"
+            path="/react-scratch/home/:type?/:inner?/:inside?"
             component={validateRputes({
               RouteComponent: CMP.Home
             })}
