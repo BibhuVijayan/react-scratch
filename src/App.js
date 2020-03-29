@@ -24,6 +24,14 @@ const App = props => {
             </ErrorHandler>
           )}
         ></Route>
+        <Route
+          path="/login"
+          render={propsChld => (
+            <ErrorHandler>
+              <CMP.Login {...propsChld} />
+            </ErrorHandler>
+          )}
+        ></Route>
         {props.loginSuccess && (
           <Route
             exact
