@@ -15,7 +15,8 @@ const App = props => {
   return (
     <Layout>
       <Switch>
-      <Route
+        <Route
+          exact
           path="/"
           render={propsChld => (
             <ErrorHandler>
